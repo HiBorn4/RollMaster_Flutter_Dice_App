@@ -20,8 +20,12 @@
 
 <p>Here are some screenshots of the app in action:</p>
 
-<img src="screenshot1.png" alt="Screenshot 1">
-<img src="screenshot2.png" alt="Screenshot 2">
+<img src="one.jpg" alt="Screenshot 1">
+<img src="two.jpg" alt="Screenshot 2">
+<img src="three.jpg" alt="Screenshot 3">
+<img src="four.jpg" alt="Screenshot 4">
+<img src="five.jpg" alt="Screenshot 5">
+<img src="six.jpg" alt="Screenshot 6">
 
 <h2>Contributing</h2>
 
