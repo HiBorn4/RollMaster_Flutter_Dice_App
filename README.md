@@ -20,12 +20,12 @@
 
 <p>Here are some screenshots of the app in action:</p>
 
-<img src="screenshots/one.jpg" alt="Screenshot 1">
-<img src="screenshots/two.jpg" alt="Screenshot 2">
-<img src="screenshots/three.jpg" alt="Screenshot 3">
-<img src="screenshots/four.jpg" alt="Screenshot 4">
-<img src="screenshots/five.jpg" alt="Screenshot 5">
-<img src="screenshots/six.jpg" alt="Screenshot 6">
+<img src="screenshots/one.jpg" alt="Screenshot 1" width="300">
+<img src="screenshots/two.jpg" alt="Screenshot 2"  width="300">
+<img src="screenshots/three.jpg" alt="Screenshot 3"  width="300">
+<img src="screenshots/four.jpg" alt="Screenshot 4"  width="300">
+<img src="screenshots/five.jpg" alt="Screenshot 5"  width="300">
+<img src="screenshots/six.jpg" alt="Screenshot 6"  width="300">
 
 <h2>Contributing</h2>
 
