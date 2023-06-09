@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 final randomizer = Random();
 
 class DiceRoller extends StatefulWidget {
-  const DiceRoller({super.key, Key? key});
+  const DiceRoller({super.key});
 
   @override
   State<DiceRoller> createState() {
