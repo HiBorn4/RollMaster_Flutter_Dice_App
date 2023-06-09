@@ -37,6 +37,6 @@
 
 <h2>Contact</h2>
 
-<p>If you have any questions or feedback, please contact me at [email protected] </p>
+<p>If you have any questions or feedback, please contact me at <b>hiborn4@gmail.com</b> </p>
 </body>
 </html>
