@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Dice App README</title>
-</head>
-<body>
-<h1>Dice App README</h1>
+<h1>Dice App</h1>
 
 <p>This is a simple dice app that gives a random number on dice roll.</p>
 
