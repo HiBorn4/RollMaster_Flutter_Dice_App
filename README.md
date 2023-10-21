@@ -1,6 +1,6 @@
 <h1>Dice App</h1>
 
-<p>This is a simple dice app that gives a random number on dice roll.</p>
+<p>This is a simple dice app that gives a random number on dice roll.</p> 
 
 <h2>Features</h2>
 
